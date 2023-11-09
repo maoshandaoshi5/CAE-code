@@ -1,0 +1,3 @@
+请前往‘http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html’下载HWDB1.0trn数据集，并使用Database.py解压为图片格式。
+
+Please go to 'http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html' to download the HWDB1.0trn dataset and extract it to image format using Database.py.
